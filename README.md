@@ -1,6 +1,6 @@
 # Codigo-Fuente-Programa-GRUPO23
 
-mport tkinter as tk
+""mport tkinter as tk
 from tkinter import ttk, messagebox
 import numpy as np
 import pandas as pd
@@ -1772,3 +1772,5 @@ def iniciar_aplicacion():
 
 if __name__ == "__main__":
     iniciar_aplicacion()
+
+"
